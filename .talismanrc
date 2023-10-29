@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: new_transaction_data_profiles.csv
+  checksum: 7a37d91bdd43218f960f11c1c329fdb05abf4a56c14b58bef5565f63d9449cec
+- filename: viz_graph.ipynb
+  checksum: 3bd2d787273e1f5ae49aa38a8e45649ff402d443a44ec990e90d83649f9aed67
+version: ""
